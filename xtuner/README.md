@@ -737,6 +737,8 @@ nvidia-cuda-runtime-cu12      12.1.105
 - 将训练好的Adapter模型权重上传到 OpenXLab、Hugging Face 或者 MoelScope 任一一平台。
 - 将训练好后的模型应用部署到 OpenXLab 平台，参考部署文档请访问：https://aicarrier.feishu.cn/docx/MQH6dygcKolG37x0ekcc4oZhnCe
 
+进阶作业可选做。
+
 **整体实训营项目：**
 
 时间周期：即日起致课程结束
